@@ -1,0 +1,15 @@
+{
+  "name": "creativestyle/magesuite-pwa-instant-purchase",
+  "description": "The module extends magesuite-pwa module with instant-purchase feature support",
+  "homepage": "https://creativestyle.de",
+  "license": "OSL-3.0",
+  "type": "magento2-module",
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "MageSuite\\Pwa\\": ""
+    }
+  }
+}
