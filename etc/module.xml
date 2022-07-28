@@ -3,6 +3,7 @@
     <module name="MageSuite_PwaInstantPurchase" setup_version="1.0.0">
         <sequence>
             <module name="MageSuite_Pwa"/>
+            <module name="MageSuite_InstantPurchase"/>
         </sequence>
     </module>
 </config>
